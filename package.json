@@ -1,0 +1,15 @@
+{
+  
+	"name": "headerParser",
+	"version": "1.0.0",
+	"description": "Microservice where you can get IP address, language and operating system from your browser",
+	"main": "app.js",
+  "author": "Donna Amos",
+	"scripts": {
+		"start": "node app.js" },
+  
+"dependencies": {
+  "express": "^4.16.2"
+  },
+	"license": "MIT"
+}
